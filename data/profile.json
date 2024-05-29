@@ -58,6 +58,11 @@
     ],
     "portfolio": [
       {
+        "name": "Github Finder",
+        "url": "https://github.com/Polar0471/github-finder",
+        "github": true
+      },
+      {
         "name": "Pokedex com JavaScript",
         "url": "https://github.com/Polar0471/pokedex-javascript",
         "github": true
