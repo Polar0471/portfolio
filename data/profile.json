@@ -54,17 +54,37 @@
     "languages": [
       "Português BR",
       "Inglês (intermediário)",
-      "Espanhol (intermediário)"
+      "Espanhol (Básico)"
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Pokedex com JavaScript",
+        "url": "https://github.com/Polar0471/pokedex-javascript",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Página web Cordel Moderno",
+        "url": "https://github.com/Polar0471/Projeto-Cordel_Moderno",
+        "github": true
+      },
+      {
+        "name": "Página web android",
+        "url": "https://github.com/Polar0471/projeto-android",
+        "github": true
+      },
+      {
+        "name": "Workshop javafx JDBC",
+        "url": "https://github.com/Polar0471/workshop-javafx-jdbc-2",
+        "github": true
+      },
+      {
+        "name": "Workshop SpringBoot 3 (JPA)",
+        "url": "https://github.com/Polar0471/workshop-springboot3-jpa",
+        "github": true
+      },
+      {
+        "name": "DAO JDBC",
+        "url": "https://github.com/Polar0471/dao-jdbc",
         "github": true
       }
     ],
