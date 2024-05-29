@@ -26,18 +26,20 @@
 <body>
     <main class="main">
         <header class="header">
-            <img src="/assets/img/imagem_portfolio.jpg" alt="Rodrigo Ferreira" class="photo">
+            <img src="/assets/img/imagem_portfolio.jpg" alt="Foto de Perfil" class="photo" id="profile.photo">
     
-            <h1 class="title">Olá, eu sou Rodrigo Ferreira</h1>
+            <h1 class="title">
+                Olá, eu sou <span id="profile.name">Carregando...</span>
+            </h1>
     
             <div class="information">
-                <p class="job">Desenvolvedor Web</p>
-                <p class="location">Pará-BR</p>
+                <p class="job" id="profile.job">Carregando...</p>
+                <p class="location" id="profile.location">Carregando...</p>
                 <p class="phone">
-                    <a href="tel:(91) 99267-0714">(91) 99267-0714</a>
+                    <a href="tel:(91) 99999-9999" id="profile.phone">Carregando...</a>
                 </p>
                 <p class="email">
-                    <a href="mailto:rodrigoarth49@gmail.com">rodrigoarth49@gmail.com</a>
+                    <a href="mailto:rodrigoarth49@gmail.com" id="profile.email">Carregando...</a>
                 </p>
             </div>
         </header>
@@ -84,11 +86,8 @@
     
                     <section class="personal">
                         <h3>Habilidades Pessoais:</h3>
-                        <ul>
-                            <li>Comunicação</li>
-                            <li>Organização</li>
-                            <li>Trabalho em equipe</li>
-                            <li>Flexibilidade</li>
+                        <ul id="profile.skills.softSkills">
+                            <li>Carregando...</li>
                         </ul>
                     </section>
                 </div>
@@ -158,5 +157,7 @@
     </main>
 
     <script src="/assets/js/acordeon.js"></script>
+    <script src="/assets/js/api.js"></script>
+    <script src="/assets/js/main.js"></script>
 </body>
 </html>
