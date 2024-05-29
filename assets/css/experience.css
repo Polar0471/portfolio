@@ -27,3 +27,7 @@
     background-image: url('/assets/img/icons/calendar.svg');
     margin-right: .5rem;
 }
+
+.experience li .description {
+    text-align: justify;
+}
