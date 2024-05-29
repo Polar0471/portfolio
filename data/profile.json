@@ -90,19 +90,19 @@
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Estagiário / Medbolso",
+        "period": "2022 - 2022",
+        "description": "Atuei prestando serviços de testes de APIs utilizando o framework Postman, operei na manutenção do Front End do site da empresa utilizando conhecimentos acerca de JSF, trabalhei com o software Jaspersoft para operar com PDFs no Back End do site e prestava serviços para tarefas mais generalistas dentro da empresa."
       },
       {
-        "name": "Software Engineering Lead / DIO",
+        "name": "Estagiário / Execute",
+        "period": "2022 - 2022",
+        "description": "Prestei serviços na manutenção do Front End dos sites desenvolvidos pela empresa utilizando conhecimentos acerca de JSF, trabalhei bastante com html/css e prestava serviços para tarefas mais generalistas dentro da empresa."
+      },
+      {
+        "name": "Estagiário / Microlins",
         "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "description": "Trabalhei como instrutor de informática e prestava assistência no maquinário disponível em sala de aula. Em paralelo, também trabalhei junto ao técnico de informática da empresa prestando serviços como suporte técnico aos computadores disponibilizados pela empresa. Em sumo, trabalhei bastante com manutenção de hardware dentro da empresa e, também, auxiliava no aprendizado dos alunos."
       }
     ]
   }
