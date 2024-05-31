@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.style.display = 'block';
             setTimeout(() => {
                 card.classList.add('visible');
-            }, 10); // Pequeno atraso para permitir que o display:block seja aplicado antes da transição
+            }, 10); 
         } else {
             card.classList.remove('visible');
             card.addEventListener('transitionend', () => {
