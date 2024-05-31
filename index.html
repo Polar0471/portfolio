@@ -26,12 +26,11 @@
 <body>
     <main class="main">
         <header class="header">
+            <div class="header-icon"></div>
             <img src="assets/img/imagem_portfolio.jpg" alt="Foto de Perfil" class="photo" id="profile.photo">
-    
             <h1 class="title">
                 Olá, eu sou <span id="profile.name">Carregando...</span>
             </h1>
-    
             <div class="information">
                 <p class="job" id="profile.job">Carregando...</p>
                 <p class="location" id="profile.location">Carregando...</p>
@@ -42,7 +41,26 @@
                     <a href="mailto:carregando@gmail.com" id="profile.email">Carregando...</a>
                 </p>
             </div>
-        </header>
+            <div class="card" id="card">
+                <a href="https://www.linkedin.com/in/rodrigo-ferreira-aab226227/" target="_blank" class="social-link">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
+                        <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                        <path d="M8 11v6"></path>
+                        <path d="M8 8v.01"></path>
+                        <path d="M12 16v-4a2 2 0 0 1 4 0v4"></path>
+                    </svg>
+                    <span>LinkedIn</span>
+                </a>
+                <a href="https://www.instagram.com/rod_arth/" target="_blank" class="social-link">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram">
+                        <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                        <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                        <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+                    </svg>
+                    <span>Instagram</span>
+                </a>
+            </div>
+        </header>        
 
         <section class="acordeon">
             <button class="trigger" type="button">
@@ -116,6 +134,7 @@
         </section>
     </main>
 
+    <script src="assets/js/after.js"></script>
     <script src="assets/js/acordeon.js"></script>
     <script src="assets/js/api.js"></script>
     <script src="assets/js/main.js"></script>
